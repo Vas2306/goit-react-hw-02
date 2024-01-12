@@ -1,0 +1,20 @@
+.resultStatistics {
+    margin-top: 40px;
+}
+
+.list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.item {
+    font-size: 18px;
+    padding-bottom: 8px;
+}
+
+.item>span {
+    font-weight: bold;
+    font-size: 20px;
+    color: #048080;
+    ;
+}

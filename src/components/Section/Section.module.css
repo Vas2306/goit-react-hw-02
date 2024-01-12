@@ -1,0 +1,10 @@
+.feedback {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #d4f7f7;
+}
+.title {
+  color: #335858;
+}
